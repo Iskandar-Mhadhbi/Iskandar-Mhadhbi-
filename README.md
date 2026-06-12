@@ -26,25 +26,7 @@ Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ---
-🚀 Featured Projects
-🏕️ CampEase – Camping Platform
-Full-stack platform for outdoor camping enthusiasts — campsite locations, gear shops, organised outings and community features.
-Backend: Spring Boot · REST API · JPA/Hibernate · MySQL
-Frontend: Angular
-DevOps: Docker · GitHub Actions CI/CD · Code Coverage
-🏠 Real Estate Platform
-Large-scale property platform with advanced search, virtual tours and listing management.
-Backend: NestJS · PostgreSQL · Redis
-Frontend: Angular
-Built during internship at SW-MA-INFINITY (Mar–Oct 2024)
-🎮 Video Game E-Commerce
-Full e-commerce platform for video games with product catalogue, search and admin panel.
-Stack: React.js · Express.js · MongoDB
-Built during internship at TeknoIsland (Jul–Sep 2023)
----
-📊 GitHub Stats
-![Iskandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iskandar-Mhadhbi&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iskandar-Mhadhbi&layout=compact&theme=tokyonight&hide_border=true)
+ 
 ---
 📫 Let's Connect
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
